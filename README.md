@@ -35,3 +35,4 @@ FIZZBUZZ is a very common coding interview problem. Below are the instructions t
    - If the number is divisible by both 3 and 5, then `console.log` 'FIZZBUZZ'
 
 Ex: 15 would print 'FIZZBUZZ', 33 would print 'FIZZ', and 35 would print 'BUZZ'
+"# JS-selection-loops" 
